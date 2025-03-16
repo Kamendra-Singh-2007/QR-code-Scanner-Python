@@ -13,6 +13,7 @@ A Python program that reads QR codes from your camera and stores the links in a 
 ---
 
 ## 🧪 Example Output
+```python
 Press 'q' to quit.
 New Link Found: https://example.com
 Duplicate Link: https://example.com
@@ -20,6 +21,6 @@ Duplicate Link: https://example.com
 ---
 
 ## 🛠️ Requirements
-### Python 
-### OpenCV
-### pyzbar
+### - Python 
+### - OpenCV
+### - pyzbar
