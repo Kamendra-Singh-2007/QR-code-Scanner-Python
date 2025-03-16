@@ -21,6 +21,6 @@ Duplicate Link: https://example.com
 ---
 
 ## 🛠️ Requirements
-### - Python 
-### - OpenCV
-### - pyzbar
+* ### Python 
+* ### OpenCV
+* ### pyzbar
